@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(111, 0, 255);
+    color: navy;
+   }
+   h1 {
+    color: #FFFF33;
+    text-align: left;
+    font: normal 50% fantasy;
+   }
+   #menu div {
+     background-color: crimson;
+     display: inline
+   }
+   p {
+    background-color: #7d98d3;
+    color: #e9db1f;
+    text-align: center;
+    font-size: 25px;
+    border: 5px groove #3633ff;
+   }
+   .shadowbox {
+    width: 15em;
+    border: 5px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, rgb(236, 183, 9), rgb(216, 199, 105) 40%, rgb(197, 187, 155));
+  }

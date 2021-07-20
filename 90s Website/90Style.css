@@ -1,0 +1,27 @@
+body {
+    background-color: #0cc2f0;
+    color: #0d0631;
+   }
+   h1 {
+    color: #FFFF33;
+    text-align: center;
+    font: italic 300% fantasy;
+   }
+   #menu {
+     background-color: crimson;
+   }
+   p {
+    background-color: #7d98d3;
+    color: #e9db1f;
+    text-align: center;
+    font-size: 25px;
+    border: 5px groove #3633ff;
+   }
+   .shadowbox {
+    width: 15em;
+    border: 5px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, rgb(236, 183, 9), rgb(216, 199, 105) 40%, rgb(197, 187, 155));
+  }
+

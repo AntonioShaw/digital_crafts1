@@ -1,0 +1,10 @@
+.item {
+    position:relative;
+    
+}
+.deal {
+    position:absolute;
+    left: 12px;
+    right: 100px
+
+}

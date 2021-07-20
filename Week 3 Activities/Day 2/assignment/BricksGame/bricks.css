@@ -1,0 +1,69 @@
+#score {
+    color: white;
+    text-align: right;
+    position: center;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 750px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.container1 {
+    background-color: darkseagreen;
+    padding-top: 4px;
+    width: 750px;
+    height: 750px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.container2 {
+    background:black;
+    /* border-width: 750px;
+    border-color: darkseagreen; */
+    padding: auto;
+    width: 700px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+}
+#black td {
+    width: 70px;
+    height: 30px;
+    background-color: black;
+    border: black 5px
+}
+#red td {
+    width: 70px;
+    height: 30px;
+    background-color: red;
+    border: black 5px
+}
+#yellow td {
+    width: 70px;
+    height: 30px;
+    background-color: yellow;
+    border: black 5px
+}
+#green td {
+    width: 70px;
+    height: 30px;
+    background-color: green;
+    border: black 5px
+}
+#blue td {
+    width: 70px;
+    height: 30px;
+    background-color: blue;
+    border: black 5px
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+#yellow .blackcell {
+    background-color:black;
+}
