@@ -1,0 +1,39 @@
+@media (min-width: 320px) and (max-width: 480px) {
+
+    #menu {
+        list-style: none;
+        flex-direction: column;
+        align-items: center;
+        color: white;
+    }
+    body {
+        background-color: green;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    body {
+        background-color: orange;
+    }
+}
+
+
+@media (min-width: 1000px) {
+  
+    body {
+        background-color: purple;
+    }
+
+#menu {
+    list-style: none;
+    display: flex;
+    background-color: blueviolet;
+    color: white;
+}
+
+#container {
+    display: flex;
+}
+    
+}

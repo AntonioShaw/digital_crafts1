@@ -1,0 +1,22 @@
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+#banner {
+    background-color: lightskyblue;
+    height: 150px;
+}
+
+#inner-container {
+    display: flex;
+    justify-content: space-between;
+}
+.box {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    background-color: palevioletred;
+    margin: 10px;
+    color: black;
+}
