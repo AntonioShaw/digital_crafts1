@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../MoviesApp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu-20.04",
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ToDoApp"
+	}
+}

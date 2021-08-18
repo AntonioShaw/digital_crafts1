@@ -1,0 +1,32 @@
+<html>
+<head></head>
+
+<body>
+
+<form method="POST" action="/create">
+    <input type="text" name="title" placeholder="TITLE"><br>
+    <input type="text" name="description" placeholder="DESCRIPTION"><br>
+    <input type="text" name="genre" placeholder="GENRE"><br>
+    <input type="text" name="posterURL" placeholder="POSTER"><br>
+
+    <button id="Submit">Submit</button>
+</form>
+
+<ul>
+
+{{#moviesList}}
+
+<li>{{title}}</li> 
+<li>{{description}}</li> 
+<li>{{genre}}</li> 
+<li><img src="{{posterURL}}"></li>
+
+{{/moviesList}}
+
+
+</ul>
+
+</body>
+
+
+</html>
