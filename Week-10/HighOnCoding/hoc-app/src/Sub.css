@@ -1,0 +1,27 @@
+#subSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0px 20px;
+  }
+  
+  .subTitles {
+    color: skyblue;
+  }
+
+  .subCopy {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 90%;
+  }
+  
+  
+  .subBtns {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+  }
